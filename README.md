@@ -24,11 +24,6 @@ I have a strong passion for **data analytics**, and I'm always looking for new w
 - **Email** (mailto:shivammahajan313@gmail.com)
 - **Instagram** (https://www.instagram.com/shivam._.1332/)
 
-
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
 ## 📚 Learning Journey
 
 - Exploring **SQL** for better data querying skills.
