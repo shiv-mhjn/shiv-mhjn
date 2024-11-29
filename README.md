@@ -13,16 +13,16 @@ I have a strong passion for **data analytics**, and I'm always looking for new w
 
 ### Tools & Technologies
 
-- ![SQL](./assets/icons/sql-icon.svg) **SQL**
-- ![Excel](./assets/icons/excel-icon.svg) **Excel**
-- ![Power BI](./assets/icons/powerbi-icon.svg) **Power BI**
-- ![Python](./assets/icons/python-icon.svg) **Python**
+- **SQL**
+- **Excel**
+- **Power BI**
+- **Python**
 
 ## 🔗 Connect with Me
 
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/shivam-mahajan-133438246/)
-- [![Email](https://upload.wikimedia.org/wikipedia/commons/3/3c/Email_icon.svg)](mailto:shivammahajan313@gmail.com)
-- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/shivam._.1332/)
+- **Linkedin(https://www.linkedin.com/in/shivam-mahajan-133438246/)
+- **Email** (mailto:shivammahajan313@gmail.com)
+- **Instagram** (https://www.instagram.com/shivam._.1332/)
 
 
 
