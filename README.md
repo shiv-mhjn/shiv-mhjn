@@ -17,12 +17,24 @@ I have a strong passion for **data analytics**, and I'm always looking for new w
 - **Excel**
 - **Power BI**
 - **Python**
+- 
+## 💻 Projects
 
+Here are some of the projects I've worked on or am currently working on using **Python**:
+
+### 1. **[Netflix-Analysis-Dashboard](https://github.com/shiv-mhjn/Netflix-Analysis-Dashboard)**  
+A Project Which is Having a Dashboard that have all the Information about the Dataset 
+- **Key Skills**: **Python**, **PowerBI**, **Excel**, **Matplotlib**
+
+### 2. **[AI-Visionaries](https://github.com/shiv-mhjn/AI-Visionaries_040)**  
+A Visinories Project that Highlights the crime which Have been Done Against The Women in previous years to find out meaningfull Insights.  
+- **Key Skills**: **Python**, **Seaborn**, **Streamlit**, **Matplotlib**
 ## 🔗 Connect with Me
 
 - **Linkedin(https://www.linkedin.com/in/shivam-mahajan-133438246/)
 - **Email** (mailto:shivammahajan313@gmail.com)
 - **Instagram** (https://www.instagram.com/shivam._.1332/)
+
 
 ## 📚 Learning Journey
 
